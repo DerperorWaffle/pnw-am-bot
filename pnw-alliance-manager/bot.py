@@ -5,8 +5,7 @@ from discord.ext import commands
 import json
 import requests
 
-TOKEN = ""
-# You think i`m gonna give you the real one?
+TOKEN = "" # Hmm ask me or mebbe use ur own?
 
 client = discord.Client()
 
